@@ -28,6 +28,5 @@ outputContainer.classList.toggle("output-full-active")
             navigator.clipboard.writeText(jsinput.value)
         }
     })
-    
-})
+    })
 
